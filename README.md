@@ -21,6 +21,7 @@ Você já imaginou ter um assistente financeiro pessoal na palma da sua mão, pr
 Porque acreditamos que o gerenciamento financeiro deve ser simples, eficiente e acessível para todos. Nossa missão é ajudar você a tomar o controle das suas finanças, alcançando a liberdade financeira que sempre sonhou. Com uma interface intuitiva e ferramentas poderosas, estamos ao seu lado em cada passo da sua jornada financeira.
 
 ### Pré-requisitos
+- Expo Versão 51
 - Node
 - MySQL
 - Rust
