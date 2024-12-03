@@ -1,0 +1,20 @@
+[package]
+name = "backend"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
+actix-web = "4"
+actix-rt = "2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+dotenv = "0.15"
+sqlx = { version = "0.6", features = ["mysql", "runtime-actix-native-tls", "chrono", "decimal"] }
+chrono = { version = "0.4", features = ["serde"] }
+rust_decimal = "1.27"
+rust_decimal_macros = "1.27"
+bcrypt = "0.12"
+jsonwebtoken = "8.1.1"
+pyo3 = { version = "0.18", features = ["extension-module"] }
+
+
+
