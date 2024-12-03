@@ -28,10 +28,10 @@ Porque acreditamos que o gerenciamento financeiro deve ser simples, eficiente e 
 - Python
 ### Infraestrutura
 - Frontend: React-Native
-- Backend: Rust
-- Banco de Dados: MySQL
+- Backend: Rust(VM Cloud)
+- Banco de Dados: MySQL(VM Cloud)
 - Machine Learning: Python
-- Cloud: AWS(EC2)
+- Cloud: Google Cloud
 - Segurança: Criptografia de hash
 - Armazenamento: Github ou GitLab
 ### Requisitos Funcionais
